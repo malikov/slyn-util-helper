@@ -1,0 +1,28 @@
+{
+  "name": "slyn-data-binder",
+  "version": "0.0.1",
+  "description": "Data binding module",
+  "main": "lib/index.js",
+  "keywords": [
+    "data-binder"
+  ],
+  "homepage": "https://github.com/malikov/slyn-data-binder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-data-binder"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-data-binder/issues"
+  },
+  "_id": "passport-parse@0.0.5",
+  "_from": "passport-parse@~0.0.5",
+  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.5.tgz"
+}

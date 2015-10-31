@@ -21,8 +21,5 @@
   },
   "bugs": {
     "url": "https://github.com/malikov/slyn-data-binder/issues"
-  },
-  "_id": "passport-parse@0.0.5",
-  "_from": "passport-parse@~0.0.5",
-  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.5.tgz"
+  }
 }

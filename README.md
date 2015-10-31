@@ -1,6 +1,6 @@
-slyn-data-binder
+slyn-util-helper
 ================
 
-A data-binder used for the slyn-framework
+A utility module used for the slyn-framework
 
 This is still a working progress

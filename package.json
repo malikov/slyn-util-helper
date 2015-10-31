@@ -1,25 +1,22 @@
 {
-  "name": "slyn-data-binder",
+  "name": "slyn-util-helper",
   "version": "0.0.1",
-  "description": "Data binding module",
+  "description": "Util Helper",
   "main": "lib/index.js",
   "keywords": [
-    "data-binder"
+    "util-helper"
   ],
-  "homepage": "https://github.com/malikov/slyn-data-binder",
+  "homepage": "https://github.com/malikov/slyn-util-helper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/malikov/slyn-data-binder"
+    "url": "https://github.com/malikov/slyn-util-helper"
   },
   "author": {
     "name": "Vincent Maliko",
     "email": "malikovincent@gmail.com"
   },
   "license": "MIT",
-  "dependencies": {
-    "underscore": "^1.8.3"
-  },
   "bugs": {
-    "url": "https://github.com/malikov/slyn-data-binder/issues"
+    "url": "https://github.com/malikov/slyn-util-helper/issues"
   }
 }
